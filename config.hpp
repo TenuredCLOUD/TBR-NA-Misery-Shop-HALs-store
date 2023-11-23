@@ -2497,6 +2497,7 @@ class cfgHALsStore {
 																																									class NMIB_ScrapMetal_Itm {price = 150;stock = 100;};
 																																									class NMIB_WoodNails_Itm {price = 100;stock = 100;};
 																																									class NMIB_WoodPlanks_Itm {price = 100;stock = 100;};
+																																									class TCNMIB_Lock {price = 2500;stock = 100;};
 																																									class Misery_Sledghammer {price = 3500;stock = 25;};
 																																									};
 
