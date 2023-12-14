@@ -2277,6 +2277,7 @@ class cfgHALsStore {
 		 class Misery_ClozapinePill {price=450;stock = 25;};
 		 class Misery_randommedication {price=150;stock = 25;};
 		 class Misery_Cenestin {price=400;stock = 25;};
+		 class Misery_sleeppill {price=450;stock = 25;};
 	};
 
 	class MedicalS {
@@ -2300,6 +2301,7 @@ class cfgHALsStore {
 		 class ACE_adenosine {price=1000;stock=25;};
 		 class Misery_antibiotic {price=2000;stock = 25;};
 		 class Misery_antiparasitic {price=2000;stock = 25;};
+		 class Misery_sleeppack {price=2000;stock = 25;};
 		 class Misery_caffetin {price=500;stock = 25;};
 		 class Misery_caffeine {price=1100;stock = 25;};
 		 class Misery_pain {price=2000;stock = 25;};
