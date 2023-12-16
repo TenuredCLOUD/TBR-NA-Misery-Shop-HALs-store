@@ -2533,6 +2533,43 @@ class cfgHALsStore {
 																																									class Misery_Emerald {price = 21500;stock = 0;};
 																																												};
 
+																																									class Melee {
+																																									displayName = "Melee Specialist";
+																																									picture = "";		
+																																									class Pipe_aluminium {price = 3800;stock = 25;};	
+																																									class WBK_axe {price = 2000;stock = 25;};	
+																																									class Bat_Clear {price = 3000;stock = 20;};																																					
+																																									class Bat_Spike {price = 2500;stock = 25;};
+																																									class WBK_BrassKnuckles {price = 4500;stock = 25;};
+																																									class WBK_brush_axe {price = 3500;stock = 25;};
+																																									class WBK_craftedAxe {price = 4000;stock = 25;};
+																																									class Crowbar {price = 3200;stock = 25;};
+																																									class CrudeAxe {price = 4800;stock = 25;};
+																																									class FireAxe {price = 3600;stock = 25;};
+																																									class WBK_survival_weapon_2 {price = 4200;stock = 25;};
+																																									class WBK_survival_weapon_1 {price = 3900;stock = 25;};
+																																									class IceAxe {price = 4600;stock = 25;};
+																																									class WBK_Katana {price = 4400;stock = 25;};
+																																									class Weap_melee_knife {price = 4700;stock = 25;};
+																																									class Knife_kukri {price = 4100;stock = 25;};
+																																									class Knife_m3 {price = 4300;stock = 25;};
+																																									class WBK_pipeStyledSword {price = 4900;stock = 25;};
+																																									class Police_Bat {price = 4500;stock = 25;};
+																																									class Rod {price = 4600;stock = 25;};
+																																									class Sashka_Russian {price = 4700;stock = 25;};
+																																									class Shovel_Russian {price = 4800;stock = 25;};
+																																									class Shovel_Russian_Rotated {price = 4900;stock = 25;};
+																																									class Axe {price = 4500;stock = 25;};
+																																									class WBK_SmallHammer {price = 4600;stock = 25;};
+																																									class WBK_ww1_Club {price = 4700;stock = 25;};
+																																									class UNSC_Knife {price = 4800;stock = 25;};
+																																									class UNSC_Knife_reversed {price = 4900;stock = 25;};
+																																									class WBK_survival_weapon_4 {price = 4500;stock = 25;};
+																																									class WBK_survival_weapon_4_r {price = 4600;stock = 25;};
+																																									class WBK_survival_weapon_3 {price = 4700;stock = 25;};
+																																									class WBK_survival_weapon_3_r {price = 4800;stock = 25;};
+																																									};
+
 																																												
 
 																																								
@@ -2579,6 +2616,10 @@ categories[] = {"BuildingitemsMis"};
 class Prospecter {
 displayName = "Prospector";
 categories[] = {"Prospecting"};
+};
+class MeleeSpecialist {
+displayName = "Melee Specialist";
+categories[] = {"Melee"};
 };
 class MedicalSpecialist {
 displayName = "Medical Specialist";
